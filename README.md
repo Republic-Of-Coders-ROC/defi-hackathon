@@ -1,1 +1,1 @@
-### This is the official repository of the project for DeFI hacathon of Code-a-Ton project.
+### This is the official repository of the project for the DeFi hackathon of the Code-a-Ton project.
